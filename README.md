@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **anirban250801@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jDBU9pZkB0PKO3dNKXnnsZG6QzypUlob/view?usp=sharing](https://drive.google.com/file/d/1jDBU9pZkB0PKO3dNKXnnsZG6QzypUlob/view?usp=sharing)
+- 📄 Know about my experiences: https://drive.google.com/file/d/1Gd9MwwJ9j9kdLrFQpizti3CxhgJTyPiM/view?usp=sharing
 
 - ⚡ Fun fact **I am expert in figuring out of my problems!!!**
 
