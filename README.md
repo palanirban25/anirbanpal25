@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirbanpal25&label=Profile%20views&color=0e75b6&style=flat" alt="anirbanpal25" /> </p>
 
-<p align="left"> <a href="https://twitter.com/_anirban25_" target="blank"><img src="https://img.shields.io/twitter/follow/_anirban25_?logo=twitter&style=for-the-badge" alt="_anirban25_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/_aniii25_" target="blank"><img src="https://img.shields.io/twitter/follow/_aniii25_?logo=twitter&style=for-the-badge" alt="_aniii25_" /></a> </p>
 
 - 📝 I regulary write articles on [https://www.quora.com/profile/Anirban-Pal-52](https://www.quora.com/profile/Anirban-Pal-52)
 
